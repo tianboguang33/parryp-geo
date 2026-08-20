@@ -28,4 +28,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://parryp.dev/sitemap.xml
+Sitemap: https://tianboguang33.github.io/parryp-geo/sitemap.xml
